@@ -10,7 +10,7 @@ class DBConnection {
 	private const HOST = "localhost";
 	private const NAME = "fbellon";
 	private const USER = "fbellon";
-	private const PASS = "lahy8Fielod8eyoo";
+	private const PASS = "";
 
 	private $connection;
 
