@@ -1,8 +1,9 @@
 <p align="center">
   <img alt="Logo del gruppo, auto stilizzata frontale" src="assets/img/logo/standard.png" width="20%">
-# LuzzAuto
-Progetto per il corso di Tecnologie Web (BSc Informatica, A.A. 2024/25) dell'Università di Padova.
 </p>
+<h1 align="center"> LuzzAuto </h1>
+Progetto per il corso di Tecnologie Web (BSc Informatica, A.A. 2024/25) dell'Università di Padova.
+
 
 
 # Membri del gruppo
