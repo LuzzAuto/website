@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo del gruppo, auto stilizzata frontale" src="LuzzAuto/assets/img/logo/standard.png" width="20%">
+  <img alt="Logo del gruppo, auto stilizzata frontale" src="../LuzzAuto/assets/img/logo/standard.png" width="20%">
 </p>
 <h1 align="center">LuzzAuto</h1>
 <p align="center">Progetto per il corso di Tecnologie Web (BSc Informatica, A.A. 2024/25) dell'Università di Padova.</p>
