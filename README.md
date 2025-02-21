@@ -33,7 +33,7 @@ Le pagine web devono essere accessibili indipendentemente dal browser e dalle di
 Il non rispetto di anche una sola di queste specifiche comporta la non sufficienza del progetto.
 
 # Valutazione
-29/30
+30/30
 
 # Info Utili
 ## Versione Server
